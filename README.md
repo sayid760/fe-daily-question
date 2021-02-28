@@ -16,7 +16,8 @@
 - 计算机基础
 
 ### 小程序二维码
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0228/111709_7cadff73_571880.jpeg "gh_fc4aa8f52d77_258.jpg")
+![image](https://img-blog.csdnimg.cn/20210228135016991.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzE0OTkzMzc1,size_16,color_FFFFFF,t_70)
+
 
 -----------------------------------
 
