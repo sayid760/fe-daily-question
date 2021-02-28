@@ -1,0 +1,16 @@
+{
+  "name": "detail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "wx-server-sdk": "^2.4.0",
+    "superagent": "^6.1.0",
+    "superagent-charset": "^1.2.0"
+  }
+}

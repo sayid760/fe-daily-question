@@ -1,0 +1,30 @@
+.home-container .list{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.home-container .list{
+  background: #fff;
+  margin-top: 40px;
+}
+
+.home-container .list .item{
+  width: 33.1%;
+  height: 120px;
+  line-height: 120px;
+  text-align: center;
+  border-right: 1px solid #d6d6d6;
+  border-bottom: 1px solid #d6d6d6;
+  font-size: 30px;
+}
+
+.home-container .list .item:nth-child(3n){
+  border-right:none
+}
+
+.home-container .list navigator{
+  width: 100%;
+  height: 100%;
+}

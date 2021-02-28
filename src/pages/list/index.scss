@@ -1,0 +1,32 @@
+.list-container{
+  padding: 20rpx;
+}
+
+.list-container .item{
+  background: #fff;
+  padding: 30rpx;
+  margin-bottom: 20rpx;
+  border-radius: 8rpx;
+}
+
+.list-container .title{
+  font-size: 34rpx;
+  display: block;
+}
+
+.list-container .desc{
+  font-size: 30rpx;
+  margin-top: 20rpx;
+}
+
+.scrollview{
+  height: 100vh;
+}
+
+.empty{
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  font-size: 30rpx;
+  color: #909090;
+}
